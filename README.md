@@ -1,4 +1,5 @@
 Descubra a Bahia 🌴☀️ 
+
 Um site estático criado para apresentar a beleza, cultura e gastronomia da Bahia de forma vibrante e convidativa.
 🛠 Tecnologias Utilizadas HTML5 — Estruturação das páginas.
 CSS3 — Estilização e responsividade.
